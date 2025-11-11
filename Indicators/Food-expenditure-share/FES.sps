@@ -5,7 +5,7 @@
 ***                                       Food Expenditure Share (FES)
 
 
-*** Last Update  : #/#/2025
+*** Last Update: Nov 2025
 *** Purpose: This script calculates the Food Expenditure Share
 
 ***   Data Quality Guidance References:
